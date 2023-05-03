@@ -1,4 +1,4 @@
-package skim.sfg.common.events;
+package skim.sfg.brewery.model.events;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;
