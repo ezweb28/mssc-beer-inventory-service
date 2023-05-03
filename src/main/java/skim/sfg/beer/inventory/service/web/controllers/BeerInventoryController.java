@@ -2,7 +2,7 @@ package skim.sfg.beer.inventory.service.web.controllers;
 
 import skim.sfg.beer.inventory.service.repositories.BeerInventoryRepository;
 import skim.sfg.beer.inventory.service.web.mappers.BeerInventoryMapper;
-import skim.sfg.beer.inventory.service.web.model.BeerInventoryDto;
+import skim.sfg.brewery.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

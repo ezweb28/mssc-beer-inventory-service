@@ -1,4 +1,4 @@
-package skim.sfg.common.events;
+package skim.sfg.brewery.model.events;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

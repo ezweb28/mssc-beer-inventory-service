@@ -7,7 +7,7 @@ import skim.sfg.beer.inventory.service.repositories.BeerInventoryRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
-import skim.sfg.common.events.NewInventoryEvent;
+import skim.sfg.brewery.model.events.NewInventoryEvent;
 
 @Slf4j
 @RequiredArgsConstructor

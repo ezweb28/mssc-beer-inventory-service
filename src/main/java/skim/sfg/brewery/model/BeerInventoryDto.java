@@ -1,4 +1,4 @@
-package skim.sfg.beer.inventory.service.web.model;
+package skim.sfg.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
