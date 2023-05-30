@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import skim.sfg.brewery.model.BeerDto;
 
 import java.io.Serializable;
 
